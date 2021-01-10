@@ -29,7 +29,7 @@
 		   $password=*******
 
  ```
- IMAGENES DEL PROYECTO:
+ # IMAGENES DEL PROYECTO:
 login:
  ![login](https://user-images.githubusercontent.com/41652885/104130799-cf8bf380-5340-11eb-9a7b-b64d98814df8.JPG)
 -register:

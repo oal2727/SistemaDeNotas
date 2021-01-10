@@ -1,0 +1,22 @@
+.form_user{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 35%;
+}
+.delete_curso,.edit_curso{
+	font-size: 20px;
+	color: crimson;
+}
+/*.item_box_doc{
+	display: none;
+}*/
+.box_reportes{
+	margin-top: 55px;
+	font-size: 25px;
+}
+#icon_reporte{
+	font-size: 70px;
+	color:orange;
+}
